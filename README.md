@@ -12,7 +12,7 @@ coverY: 0
 ### \<Tavria>
 
 * [Ссылка для удаленного доступа](https://rds.tavria-rus.ru/RDWeb/Pages/ru-RU/Default.aspx)&#x20;
-* [Ссылка на панель управления](https://cloud.tavria-rus.ru/index.php/apps/dashboard/)
+* [Ссылка на панель управления](https://cloud.tavria-rus.ru/index.php/apps/dashboard/) (Админ)
 * [Ссылка на почту](https://mail.tavria-rus.ru/)
 
 ***
