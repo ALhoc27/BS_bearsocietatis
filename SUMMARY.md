@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+## Admin
+
+* [Admin](README.md)
+* [Прокси-сервера и анонимайзеры](admin/editor.md)
+* [Memory card](admin/memory-card.md)
