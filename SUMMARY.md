@@ -2,6 +2,9 @@
 
 ## Admin
 
-* [Admin](README.md)
-* [Прокси-сервера и анонимайзеры](admin/editor.md)
-* [Memory card](admin/memory-card.md)
+* [Admin 'Tavria'](README.md)
+
+## Library
+
+* [Memory card](library/memory-card.md)
+* [Прокси-сервера и анонимайзеры](library/editor.md)
