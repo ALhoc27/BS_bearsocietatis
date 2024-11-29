@@ -1,14 +1,18 @@
 # Table of contents
 
-## Admin
-
-* [Admin 'Tavria'](README.md)
-
 ## Library
 
-* [Memory card](library/memory-card.md)
+* [Memory card](README.md)
 * [Прокси-сервера и анонимайзеры](library/editor.md)
 
-***
+## Github
 
-* [ИИ](ii.md)
+* [Github](github/github.md)
+
+## RegEx
+
+* [Page 2](regex/page-2.md)
+
+## SQL
+
+* [Page 3](sql/page-3.md)
