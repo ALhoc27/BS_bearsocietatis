@@ -1,13 +1,8 @@
 # Table of contents
 
-## Library
-
-* [Memory card](README.md)
-* [Прокси-сервера и анонимайзеры](library/editor.md)
-
 ## Github
 
-* [Github](github/github.md)
+* [Github](README.md)
 
 ## RegEx
 
@@ -16,3 +11,7 @@
 ## SQL
 
 * [Page 3](sql/page-3.md)
+
+## Algorithms
+
+* [Page 1](algorithms/page-1.md)
